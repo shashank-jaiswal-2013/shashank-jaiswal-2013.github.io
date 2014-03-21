@@ -60,7 +60,7 @@ var site = {
 
     start_slider: function() {
         document.getElementById("slider").getElementsByTagName('img')[0].src = site.media[site.i];
-        //document.getElementById("slider").getElementsByTagName('div')[0].innerHTML = site.headline[site.i];
+        document.getElementById("slider").getElementsByTagName('img')[0].title = site.headline[site.i];
         site.i++;
         if (site.i == site.media.length) {
             site.i = 0;
@@ -111,7 +111,7 @@ var site = {
     <div id="wrapper">
         <div class="slider-wrapper theme-default">
             <div id="slider" class="nivoSlider">
-                <img id='sliderImage' src="images/toystory.jpg" alt="Toystory" title="This is an example of a caption 1" style='width:100%;height:350px;'/>
+                <img id='sliderImage' src="images/ceps.jpg" alt="Toystory" title="CEPS" style='width:100%;height:350px;'/>
 </div>
 </div>
 </div>
