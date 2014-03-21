@@ -107,6 +107,7 @@ margin-left: 100px;
 z-index: -120;
 	/*font-family:lucida calligraphy;*/
 	font-size: 80px;
+	text-shadow:4px 4px 2px #111;
 }
 #head p span
 {
@@ -117,6 +118,7 @@ vertical-align: 1px;
     /*font-family:andalus;*/
     font-size: 45px;
     z-index: -120;
+    text-shadow:3px 2px 2px #111;
 }
 #head p span.h
 {
