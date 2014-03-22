@@ -89,8 +89,8 @@ width:70px;
 }
 #head
 {
-    width: 100%;
-    margin-left: 0%;
+    width: 99%;
+    margin: 0px auto;
 height: 110px;
 margin-top: 0px;
 background:rgba(47,47,47,1);
@@ -103,7 +103,7 @@ z-index: 1000;
 #head p
 {
 color: #fff;
-margin-left: 100px;
+margin-left: 40px;
 z-index: -120;
 	/*font-family:lucida calligraphy;*/
 	font-size: 80px;
