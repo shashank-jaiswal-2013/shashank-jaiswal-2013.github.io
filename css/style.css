@@ -111,10 +111,10 @@ z-index: -120;
 }
 #head p span
 {
-/*color: rgba(40,174,207,1);*/
-color: black;
-margin-left: 0px;
-vertical-align: 1px;
+	/*color: rgba(40,174,207,1);*/
+	color: #ffffff;
+	margin-left: 0px;
+	vertical-align: 1px;
     /*font-family:andalus;*/
     font-size: 45px;
     z-index: -120;
