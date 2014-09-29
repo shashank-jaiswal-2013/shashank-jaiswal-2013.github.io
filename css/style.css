@@ -164,7 +164,7 @@ height: 2px;
     position: relative;
     z-index: 5;
     height: 800px;
-    background:rgba(249,250,247,1);
+    /*background:rgba(249,250,247,1);*/
 }
 
 #content
